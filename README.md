@@ -1,8 +1,6 @@
 # AgroInsight-Precision-Agriculture-through-Smart-Crop-Recommendations
 Dynamic Crop Recommendation System  An innovative web-based system that accurately predicts suitable crops based on environmental data using machine learning. Features a unique UI where the background image changes to match the predicted crop, enhancing user engagement.
 
-# Crop Recommendation System
-
 ## Overview
 
 The Crop Recommendation System is a web application designed to assist farmers in making informed decisions about crop selection based on various environmental factors. By leveraging machine learning, the system predicts the most suitable crops for a given set of input parameters, including nitrogen, phosphorus, potassium levels, temperature, humidity, pH, and rainfall.
