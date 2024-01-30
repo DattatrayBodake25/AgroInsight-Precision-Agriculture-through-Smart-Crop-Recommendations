@@ -13,9 +13,6 @@ Welcome to the Crop Recommendation System project repository! This system helps 
 - [Usage](#usage)
 - [Demo](#demo)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## About the Project
 
 The Crop Recommendation System is designed to provide farmers with crop recommendations based on input parameters such as nitrogen, phosphorus, potassium levels, temperature, humidity, pH, and rainfall. The system utilizes a machine learning model, specifically a Random Forest Classifier, to make predictions.
