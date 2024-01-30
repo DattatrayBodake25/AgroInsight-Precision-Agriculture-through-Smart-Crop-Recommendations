@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    background-image: url("/static/crop.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #000000; /* Make all body text black */
+}
+
+h1, label, input[type="text"], button {
+    color: #000000; /* Make all text black */
+    font-weight: bold; /* Make all text bold */
+}
+
+form {
+    background: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+    padding: 20px;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+input[type="text"],
+button {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 200px;
+}
+
+button {
+    background-color: #5cb85c;
+    border: none;
+    cursor: pointer;
+    color: white; /* Keep button text white for contrast */
+}
+
+button:hover {
+    background-color: #4cae4c;
+}
+
+.prediction {
+    margin-top: 20px;
+    font-size: 1.5em; /* Increase the font size */
+    color: #FF0000; /* Green color for prediction text */
+    font-weight: bold; /* Make the text bold */
+    background-color: #ffff00; /* Yellow background color */
+    padding: 5px; /* Optional: Add padding for better appearance */
+}
